@@ -1,0 +1,11 @@
+nav {
+    background-color: rgb(44, 62, 80);
+}
+.nav-item a{
+    color: white;
+}
+.active {
+    background-color:#1abc9ce6 ;
+    border-radius: 8px;
+    transition: 1.5s all;
+}
